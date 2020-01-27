@@ -1,3 +1,10 @@
+/*
+    Written by:
+    Sayed Edris Sadeed
+    Free for personal use 
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct node
